@@ -48,6 +48,7 @@ function persistence(num) {
 
 IT academy "Step" "Front-end developer" 
 RS Schools Course "JavaScript/Front-end. Stage 1" (in progress)
+Clevertec Frontend Lab (in progress)
 
 
 ### **LANGUAGES**
