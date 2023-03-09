@@ -3,10 +3,10 @@
 
 ### **CONTACT INFORMATION**
 
-Email: anyutachke@gmail.com
-Phone: +375(447302231)
-Telegram: @gorbunova_hanna
-GitHub: [GorbunovaAnna](https://github.com/GorbunovaAnna)
+- Email: anyutachke@gmail.com
+- Phone: +375(44)7302231
+- Telegram: @gorbunova_hanna
+- GitHub: [GorbunovaAnna](https://github.com/GorbunovaAnna)
 
 ### **ABOUT ME**
 
